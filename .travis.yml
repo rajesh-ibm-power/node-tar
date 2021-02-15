@@ -1,7 +1,8 @@
 language: node_js
 nodejs: 
     - 10
-    - node  #latest stable Node.js release
+    - node
+    - lts/*
 
 arch:
    - amd64
