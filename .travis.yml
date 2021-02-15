@@ -3,11 +3,9 @@ nodejs:
     - 10
     - node
     - lts/*
-
 arch:
    - amd64
    - ppc64le   
-
 addons:
    apt:
     update: true
